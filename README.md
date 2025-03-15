@@ -1,4 +1,5 @@
-# Olá, sou a **Débora Cristina** 👋
+![Olá, bem-vindo ao meu GitHub!](https://media.giphy.com/media/3ohs7K2t5kz8q5ZwQY/giphy.gif)
+
 
 ## 🌟 Sobre Mim
 Estou começando minha jornada como desenvolvedora e já estou explorando o mundo da **nuvem**. Adoro aprender novas tecnologias e colocar em prática soluções escaláveis e eficientes. Ver uma ideia se tornando realidade, é o que me motiva a continuar!
