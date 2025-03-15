@@ -16,4 +16,4 @@ Estou começando minha jornada como desenvolvedora e já estou explorando o mund
 
 ## 📫 Onde me encontrar:
 - 💌 Email: [debora.vitorio.dev@gmail.com](mailto:debora.vitorio.dev@gmail.com)
-- 🌐 **LinkedIn**: [www.linkedin.com/in/deboravitoriodev](https://www.linkedin.com/in/deboravitoriodev) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
+- 🌐 **LinkedIn**: [www.linkedin.com/in/deboravitoriodev](https://www.linkedin.com/in/deboravitoriodev)
