@@ -1,35 +1,4 @@
-
-       <!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Efeito de Digitação</title>
-    <style>
-        /* Animação de digitação */
-        .typing {
-            font-size: 50px;
-            font-family: "Courier New", Courier, monospace;
-            white-space: nowrap;
-            overflow: hidden;
-            border-right: .1em solid #000; /* Simula o cursor piscando */
-            width: 0; /* Começa com o texto invisível */
-            animation: typing 4s steps(40) 1s forwards;
-        }
-
-        /* Definindo a animação de digitação */
-        @keyframes typing {
-            0% { width: 0; }
-            100% { width: 100%; }
-        }
-    </style>
-</head>
-<body>
-    <!-- O texto que vai ser digitado -->
-    <div class="typing">Olá, bem-vindo ao meu GitHub!!</div>
-</body>
-</html>
-
+# 🚀 Olá, bem-vindo ao meu GitHub! 👋
 
 
 ## 🌟 Sobre Mim
