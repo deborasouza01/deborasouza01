@@ -1,4 +1,4 @@
-![Olá, bem-vindo ao meu GitHub!](https://media.giphy.com/media/3ohs7K2t5kz8q5ZwQY/giphy.gif)
+![Olá, bem-vindo ao meu GitHub!](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJrYXVycGM4cWNjOThkNjZxOHVtc3MwYnJ2ejByenptNnlpZGVlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rRBKHSkn9IFOzF1h1k/giphy.gif)
 
 
 ## 🌟 Sobre Mim
