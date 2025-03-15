@@ -14,6 +14,6 @@ Estou começando minha jornada como desenvolvedora e já estou explorando o mund
   <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" alt="AWS"/>
 </div>
 
-## 📫 Como me encontrar:
+## 📫 Onde me encontrar:
 - 💌 Email: [debora.vitorio.dev@gmail.com](mailto:debora.vitorio.dev@gmail.com)
 - 🌐 **LinkedIn**: [www.linkedin.com/in/deboravitoriodev](https://www.linkedin.com/in/deboravitoriodev) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
