@@ -10,8 +10,8 @@ Estou começando minha jornada como desenvolvedora e já estou explorando o mund
   <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS3"/>
   <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/96/000000/react-native.png" alt="React"/>
-  <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" alt="AWS"/>
   <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" alt="AWS"/>
 </div>
 
 ## 📫 Como me encontrar:
