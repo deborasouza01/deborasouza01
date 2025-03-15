@@ -18,7 +18,7 @@ Estou começando minha jornada como desenvolvedora e já estou explorando o mund
 
 ### 📊 Estatísticas do GitHub  
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_deborasouza01&show_icons=true&theme=dark)  
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=deborasouza01&show_icons=true&theme=dark)  
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=deborasouza01&layout=compact&theme=dark)
 
