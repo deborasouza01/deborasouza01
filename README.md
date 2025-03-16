@@ -31,6 +31,13 @@
 ### 📊 Estatísticas do GitHub  
 
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=deborasouza01&show_icons=true&theme=dark" alt="Estatísticas do GitHub" style="max-width: 48%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborasouza01&layout=compact&theme=dark" alt="Linguagens mais usadas" style="max-width: 48%;"/>
+</div>
+
+
+
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=deborasouza01&show_icons=true&theme=dark)  
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=deborasouza01&layout=compact&theme=dark)
