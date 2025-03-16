@@ -2,7 +2,8 @@
 
 
 ## 🌟 Sobre Mim
-Estou começando minha jornada como desenvolvedora e já estou explorando o mundo da **nuvem**. Adoro aprender novas tecnologias e colocar em prática soluções escaláveis e eficientes. Ver uma ideia se tornando realidade, é o que me motiva a continuar!
+Quando o código se encontra com o caos, é aí que eu apareço!
+Desenvolvedora web em formação, em busca de dominar o universo das tecnologias, sem fazer o computador pirar (pelo menos não até agora!). No começo da minha jornada, enfrentei muitos desafios — novas tecnologias pareciam um grande mistério, e cada erro me deixava com mais perguntas do que respostas. Mas, com paciência e um bom chá, fui superando obstáculos e me apaixonando pela área. Durante meu estágio, o Linux se tornou meu aliado — aquele terminal inicialmente intimidador virou meu parceiro de código, e hoje não vivo sem ele! Além disso, contribuo com projetos open-source na área de DevOps no GitHub, enquanto me aprofundo em Python, machine learning e computação em nuvem (AWS). A cada novo projeto, busco soluções inovadoras para fazer a diferença, tanto no lado técnico quanto social... e, quem sabe, até soltar um feitiço de produtividade no caminho!
 
 ## 🚀 Tecnologias que uso:
 <div>
@@ -23,11 +24,10 @@ Estou começando minha jornada como desenvolvedora e já estou explorando o mund
 
 ### 📊 Estatísticas do GitHub  
 
-<div>
+
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=deborasouza01&show_icons=true&theme=dark)  
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=deborasouza01&layout=compact&theme=dark)
-</div>
 
 
 ## 📫 Onde me encontrar:
