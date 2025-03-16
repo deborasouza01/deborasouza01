@@ -1,5 +1,5 @@
 # 🚀 print('Hello, world!') – Bem-vindo ao meu GitHub! 👋
-
+<br>
 
 ## 🌟 Sobre Mim
 Desenvolvedora web em formação, em busca de dominar o universo das tecnologias, sem fazer o computador pirar (pelo menos não até agora!). No começo da minha jornada, enfrentei muitos desafios, novas tecnologias pareciam um grande mistério, e cada erro me deixava com mais perguntas do que respostas. Mas, com paciência e umas boas xícaras de café, fui superando obstáculos e me apaixonando pela área.
