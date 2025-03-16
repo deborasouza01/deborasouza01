@@ -6,11 +6,11 @@
 
 <p>Durante meu estágio, me apaionei pelo o <strong>linux</strong>, e hoje não consigo mais viver sem ele!</p>
 
-<p>Aprendi que um bom desenvolvedor vai além do código — é preciso entender estrutura de dados, metodologias ágeis e trabalhar bem em equipe.</p>
+<p>Aprendi que um bom desenvolvedor vai além do código, é preciso entender estrutura de dados, metodologias ágeis e trabalhar bem em equipe.</p>
 
 <p>Atualmente, contribuo com projetos open-source na área de DevOpsaqui no GitHub, enquanto me aprofundo em Python, machine learning e computação em nuvem (AWS). Busco sempre soluções inovadoras e melhorar minha produtividade no caminho.</p>
 
- ## 🚀 Tecnologias que estou aprendendo:
+ ## 🚀 Tecnologias que uso:
 
 <div>
   <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML5"/>
