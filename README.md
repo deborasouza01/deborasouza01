@@ -2,14 +2,13 @@
 <br>
 
 ## 🌟 Sobre Mim
-**Desenvolvedora web em formação**,
-Durante meu estágio me apaixonei pelo o Linux, e hoje não consigo mais viver sem ele 
-nada mais satisfatório do que ver tudo funcionando direitinho no terminal, não é?
+<p><strong>Desenvolvedora web em formação</strong>.</p>
 
-Atualmente, contribuo com projetos open-source na área de DevOps aqui no GitHub, 
-enquanto me aprofundo em **Python**, **machine learning** e **computação em nuvem (AWS)**.
-Busco sempre soluções inovadoras e melhorar minha produtividade no caminho.
+<p>Durante meu estágio, me apaionei pelo o <strong>linux</strong>, e hoje não consigo mais viver sem ele!</p>
 
+<p>Aprendi que um bom desenvolvedor vai além do código — é preciso entender estrutura de dados, metodologias ágeis e trabalhar bem em equipe.</p>
+
+<p>Atualmente, contribuo com projetos open-source na área de DevOpsaqui no GitHub, enquanto me aprofundo em Python, machine learning e computação em nuvem (AWS). Busco sempre soluções inovadoras e melhorar minha produtividade no caminho.</p>
 
  ## 🚀 Tecnologias que estou aprendendo:
 
