@@ -12,6 +12,8 @@ Sou a pessoa que adora desafios, mesmo quando as coisas parecem complicadas (sou
 
 Além disso, Contribuo com **projetos open-source** na área de **DevOps** aqui no GitHub, enquanto me aprofundo em **Python**, **machine learning** e **computação em nuvem (AWS)**. A cada novo projeto, busco soluções inovadoras para fazer a diferença, tanto no lado técnico quanto social... e quem sabe até fazer um pouco de mágica no processo!
 
+ 
+ ## 🚀 Tecnologias que estou aprendendo:
 
 <div>
   <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML5"/>
