@@ -2,14 +2,16 @@
 <br>
 
 ## 🌟 Sobre Mim
-Desenvolvedora web em formação, em busca de dominar o universo das tecnologias, sem fazer o computador pirar (pelo menos não até agora!).
-No começo da minha jornada, enfrentei muitos desafios, novas tecnologias pareciam um grande mistério, e cada erro me deixava com mais perguntas do que respostas. 
-mas, com paciência e umas boas xícaras de café, fui superando obstáculos e me apaixonando pela área.<br>
-Durante meu estágio, me apaixonei pelo o **Linux** nada como aquele sentimento satisfatório de ver tudo funcionando direitinho no terminal, não é?
+
+Desenvolvedora web em formação, em busca de dominar o universo das tecnologias, sem fazer o computador pirar (pelo menos não até agora!). No começo da minha jornada, enfrentei muitos desafios — novas tecnologias pareciam um grande mistério, e cada erro me deixava com mais perguntas do que respostas. Mas, com paciência e um bom chá, fui superando obstáculos e me apaixonando pela área.
+
+Durante meu estágio, o **Linux** se tornou meu aliado — aquele terminal inicialmente intimidador virou meu parceiro de código, e hoje não vivo sem ele!
+
 Aprendi também que um bom desenvolvedor não se limita a apenas escrever código, mas precisa entender **estruturas de dados**, **metodologias ágeis** e como **trabalhar em equipe**.
-Sou a pessoa que adora desafios, mesmo quando as coisas parecem complicadas (sou persistente, o que pode ser tanto uma virtude quanto uma teimosia).
-Além disso, contribuo com **projetos open-source** na área de **DevOps** aqui no GitHub, enquanto me aprofundo em **Python**,**machine learning** e **computação em nuvem (AWS)**.
-A cada novo projeto, busco soluções inovadoras para fazer a diferença, tanto no lado técnico quanto social... e quem sabe até fazer um pouco de mágica no processo!
+
+Sou a pessoa que adora desafios e se empolga com novas oportunidades de aprendizado, mesmo quando as coisas parecem complicadas (sou persistente, o que pode ser tanto uma virtude quanto uma teimosia).
+
+Contribuo com **projetos open-source** na área de **DevOps** no GitHub, enquanto me aprofundo em **Python**, **machine learning** e **computação em nuvem (AWS)**. A cada novo projeto, busco soluções inovadoras para fazer a diferença, tanto no lado técnico quanto social... e, quem sabe, até melhorar minha produtividade no caminho!
 
  
  ## 🚀 Tecnologias que estou aprendendo:
