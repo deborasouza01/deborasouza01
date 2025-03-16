@@ -22,7 +22,7 @@
 ## 🛠 Tecnologias que estou aprendendo:
 <div>
   <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="nodejs"/
+  <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="nodejs"/>
   <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" alt="AWS"/>
 </div>
 
