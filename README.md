@@ -15,7 +15,7 @@ Estou começando minha jornada como desenvolvedora e já estou explorando o mund
 ## 🛠 Tecnologias que estou aprendendo:
 <div>
   <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="nodejs"/><br>
+  <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="nodejs"/
   <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" alt="AWS"/>
 </div>
 
@@ -23,9 +23,11 @@ Estou começando minha jornada como desenvolvedora e já estou explorando o mund
 
 ### 📊 Estatísticas do GitHub  
 
+<div>
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=deborasouza01&show_icons=true&theme=dark)  
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=deborasouza01&layout=compact&theme=dark)
+</div>
 
 
 ## 📫 Onde me encontrar:
