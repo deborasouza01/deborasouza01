@@ -7,10 +7,9 @@ No começo da minha jornada, enfrentei muitos desafios, novas tecnologias pareci
 mas, com paciência e umas boas xícaras de café, fui superando obstáculos e me apaixonando pela área.
 Durante meu estágio, me apaixonei pelo o **Linux** nada como aquele sentimento satisfatório de ver tudo funcionando direitinho no terminal, não é?
 Aprendi também que um bom desenvolvedor não se limita a apenas escrever código, mas precisa entender **estruturas de dados**, **metodologias ágeis** e como **trabalhar em equipe**.
-
 Sou a pessoa que adora desafios, mesmo quando as coisas parecem complicadas (sou persistente, o que pode ser tanto uma virtude quanto uma teimosia).
-
-Além disso, Contribuo com **projetos open-source** na área de **DevOps** aqui no GitHub, enquanto me aprofundo em **Python**, **machine learning** e **computação em nuvem (AWS)**. A cada novo projeto, busco soluções inovadoras para fazer a diferença, tanto no lado técnico quanto social... e quem sabe até fazer um pouco de mágica no processo!
+Além disso, contribuo com **projetos open-source** na área de **DevOps** aqui no GitHub, enquanto me aprofundo em **Python**,**machine learning** e **computação em nuvem (AWS)**.
+A cada novo projeto, busco soluções inovadoras para fazer a diferença, tanto no lado técnico quanto social... e quem sabe até fazer um pouco de mágica no processo!
 
  
  ## 🚀 Tecnologias que estou aprendendo:
