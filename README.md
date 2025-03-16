@@ -2,18 +2,17 @@
 <br>
 
 ## 🌟 Sobre Mim
+**Desenvolvedora web em formação**,
+apaixonada por aprender e resolver desafios tecnológicos. 
 
-**Desenvolvedora web em formação, em busca de dominar o universo das tecnologias, sem fazer o computador pirar (pelo menos não até agora!).**
+Comecei minha jornada superando erros e desmistificando tecnologias, com um bom café ao lado. Durante meu estágio, 
+me apaixonei pelo o Linux , e hoje não consigo mais viver sem ele!
 
-No começo da minha jornada, novas tecnologias pareciam um grande mistério, e cada erro me deixava com mais perguntas do que respostas. Mas, com paciência e um bom chá, fui superando obstáculos e me apaixonando pela área.
+Acredito que um bom desenvolvedor vai além do código — é preciso entender estrutura de dados, metodologias ágeis e trabalhar bem em equipe. 
 
-Durante meu estágio, me apaixonei pelo linux, nada mais satisfatório do que ver tudo funcionando no terminal direitinho, não é?
-
-Aprendi também que um bom desenvolvedor não se limita a apenas escrever código. É essencial entender estruturas de dados, metodologias ágeis e como trabalhar bem em equipe.
-
-Sou a pessoa que adora desafios e se empolga com novas oportunidades de aprendizado, mesmo quando as coisas parecem complicadas (sou persistente, o que pode ser tanto uma virtude quanto uma teimosia).
-
-Contribuo com projetos open-source na área de DevOps no GitHub, enquanto me aprofundo em Python, machine learning e computação em nuvem (AWS). A cada novo projeto, busco soluções inovadoras para fazer a diferença, tanto no lado técnico quanto social.
+Atualmente, contribuo com projetos open-source na área de DevOps no GitHub, 
+enquanto me aprofundo em Python, machine learning e computação em nuvem (AWS).
+Busco sempre soluções inovadoras e melhorar minha produtividade no caminho.
 
 
  ## 🚀 Tecnologias que estou aprendendo:
