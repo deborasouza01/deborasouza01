@@ -38,10 +38,9 @@
 
 ## 📫 Onde me encontrar:
 
-## Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deboravitoriodev)
 [![E-mail](https://img.shields.io/badge/E--mail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debora.vitorio.dev@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/559xxxxxxxxx)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55992126111)
 
 
