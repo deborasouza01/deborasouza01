@@ -1,13 +1,6 @@
-<img src="https://raw.githubusercontent.com/deborasouza01/deborasouza01/refs/heads/main/gif-hello-word.gif" width="400px">
+<img src="https://raw.githubusercontent.com/deborasouza01/deborasouza01/refs/heads/main/gif-hello-word.gif" width="600px">
 
 
-
-
-
-
-
-# 🚀 print('Hello, world!') – Bem-vindo ao meu GitHub! 👋
-<br>
 
 ## 🌟 Sobre Mim
 <p><strong>Desenvolvedora web em formação</strong>.</p>
