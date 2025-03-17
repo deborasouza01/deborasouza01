@@ -38,15 +38,10 @@
 
 ## 📫 Onde me encontrar:
 
-<a href="https://www.linkedin.com/in/deboravitoriodev" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg" alt="LinkedIn" style="width: 40px; height: 40px; background-color: #0A66C2; padding: 10px; border-radius: 8px; margin-right: 10px;">
-</a>
+## Onde me encontrar
 
-<a href="mailto:debora.vitorio.dev@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Email_icon.svg" alt="E-mail" style="width: 40px; height: 40px; background-color: #ffffff; border: 2px solid #D14836; padding: 10px; border-radius: 8px; margin-right: 10px;">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deboravitoriodev)
+[![E-mail](https://img.shields.io/badge/E--mail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debora.vitorio.dev@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/559xxxxxxxxx)
 
-<a href="https://wa.me/55992126111" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" style="width: 40px; height: 40px; background-color: #25D366; padding: 10px; border-radius: 8px; margin-right: 10px;">
-</a>
 
