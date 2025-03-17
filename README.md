@@ -38,9 +38,15 @@
 
 ## 📫 Onde me encontrar:
 
-## Onde me encontrar
+<a href="https://www.linkedin.com/in/deboravitoriodev" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg" alt="LinkedIn" style="width: 40px; height: 40px; background-color: #0A66C2; padding: 10px; border-radius: 8px; margin-right: 10px;">
+</a>
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg)](https://www.linkedin.com/in/deboravitoriodev)
-[![E-mail](https://upload.wikimedia.org/wikipedia/commons/a/a0/Email_icon.svg)](mailto:debora.vitorio.dev@gmail.com)
-[![WhatsApp](https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg)](https://wa.me/559xxxxxxxxx)
+<a href="mailto:debora.vitorio.dev@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Email_icon.svg" alt="E-mail" style="width: 40px; height: 40px; background-color: #ffffff; border: 2px solid #D14836; padding: 10px; border-radius: 8px; margin-right: 10px;">
+</a>
+
+<a href="https://wa.me/55992126111" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" style="width: 40px; height: 40px; background-color: #25D366; padding: 10px; border-radius: 8px; margin-right: 10px;">
+</a>
 
