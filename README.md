@@ -40,7 +40,7 @@
 
 <div>
   <!-- Botão do LinkedIn -->
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/deboravitoriodev" target="_blank">
+  <a href="https://www.linkedin.com/in/deboravitoriodev" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg" alt="LinkedIn" style="width: 40px; height: 40px; background-color: #0A66C2; padding: 10px; border-radius: 8px; margin-right: 10px;"/>
   </a>
   
