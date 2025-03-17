@@ -1,5 +1,5 @@
+<img src="https://github.com/deborasouza01/deborasouza01/raw/b94e142719ec05649b0f9f656ba8b2a6c570d749/gif.animado.gif" alt="Efeito de animação" style="width: 200px;"/>
 
-![Efeito de animação](https://github.com/deborasouza01/deborasouza01/raw/b94e142719ec05649b0f9f656ba8b2a6c570d749/gif.animado.gif)
 
 
 
