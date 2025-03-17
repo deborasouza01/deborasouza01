@@ -45,7 +45,6 @@
       <path d="M20 0H4C1.79 0 0 1.79 0 4v16c0 2.21 1.79 4 4 4h16c2.21 0 4-1.79 4-4V4c0-2.21-1.79-4-4-4zM7 20H5v-8h2v8zm-1-9.5c-.68 0-1.2-.53-1.2-1.2s.53-1.2 1.2-1.2c.67 0 1.2.53 1.2 1.2s-.53 1.2-1.2 1.2zM20 20h-2v-4.5c0-1.62-1.34-2.9-2.99-2.9-1.66 0-2.99 1.28-2.99 2.9V20h-2v-8h2v1.1c.35-.53 1.07-.9 1.89-.9 1.5 0 2.61 1.03 2.61 2.6V20z"/>
     </svg>
   </a>
-
   <!-- Botão E-mail (branco com borda vermelha) -->
   <a href="mailto:debora.vitorio.dev@gmail.com">
     <svg xmlns="http://www.w3.org/2000/svg" fill="#D14836" viewBox="0 0 24 24" width="40" height="40" style="padding: 10px; background-color: #ffffff; border: 2px solid #D14836; border-radius: 8px; margin-right: 10px;">
