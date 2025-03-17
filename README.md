@@ -31,18 +31,32 @@
 ### 📊 Estatísticas do GitHub  
 
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=deborasouza01&show_icons=true&theme=dark" alt="Estatísticas do GitHub" style="max-width: 48%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborasouza01&layout=compact&theme=dark" alt="Linguagens mais usadas" style="max-width: 48%;"/>
-</div>
-
-
-
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=deborasouza01&show_icons=true&theme=dark)  
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=deborasouza01&layout=compact&theme=dark)
 
 
 ## 📫 Onde me encontrar:
+
+<div>
+  <!-- Botão do LinkedIn -->
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/deboravitoriodev" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg" alt="LinkedIn" style="width: 40px; height: 40px; background-color: #0A66C2; padding: 10px; border-radius: 8px; margin-right: 10px;"/>
+  </a>
+  
+  <!-- Botão de E-mail -->
+  <a href="mailto:debora.vitorio.dev@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Email_icon.svg" alt="E-mail" style="width: 40px; height: 40px; background-color: #ffffff; border: 2px solid #D14836; padding: 10px; border-radius: 8px; margin-right: 10px;"/>
+  </a>
+
+  <!-- Botão WhatsApp (verde) -->
+  <a href="https://wa.me/5521992126111" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" style="width: 40px; height: 40px; background-color: #25D366; padding: 10px; border-radius: 8px; margin-right: 10px;"/>
+  </a>
+</div>
+
+
+
+
 - 💌 Email: [debora.vitorio.dev@gmail.com](mailto:debora.vitorio.dev@gmail.com)
 - 🌐 **LinkedIn**: [www.linkedin.com/in/deboravitoriodev](https://www.linkedin.com/in/deboravitoriodev)
