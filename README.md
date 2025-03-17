@@ -1,3 +1,11 @@
+
+<div style="background-color: #333; padding: 20px; display: inline-block;">
+  <img src="https://raw.githubusercontent.com/deborasouza01/deborasouza01/refs/heads/main/gif-hello-word%20(1).gif" width="600px">
+</div>
+
+
+
+
 <img src="https://raw.githubusercontent.com/deborasouza01/deborasouza01/refs/heads/main/gif-hello-word%20(1).gif" width="800px" style="display: block; margin-bottom: -30px;">
 
 ## 🌟 Sobre Mim
