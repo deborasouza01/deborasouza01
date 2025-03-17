@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/deborasouza01/deborasouza01/refs/heads/main/gif-hello-word.gif" width="700px" height="300px">
-
-
+<img src="https://raw.githubusercontent.com/deborasouza01/deborasouza01/refs/heads/main/gif-hello-word.gif" width="600px" style="display: block; margin: 0 auto;">
 
 ## 🌟 Sobre Mim
 <p><strong>Desenvolvedora web em formação</strong>.</p>
