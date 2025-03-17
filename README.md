@@ -1,12 +1,9 @@
-
-<div style="background-color: #333; padding: 20px; display: inline-block;">
-  <img src="https://raw.githubusercontent.com/deborasouza01/deborasouza01/refs/heads/main/gif-hello-word%20(1).gif" width="600px">
-</div>
-
-
-
-
+<div>
 <img src="https://raw.githubusercontent.com/deborasouza01/deborasouza01/refs/heads/main/gif-hello-word%20(1).gif" width="800px" style="display: block; margin-bottom: -30px;">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deboravitoriodev)
+[![E-mail](https://img.shields.io/badge/E--mail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debora.vitorio.dev@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55992126111)
+</div>
 
 ## 🌟 Sobre Mim
 <p><strong>Desenvolvedora web em formação</strong>.</p>
