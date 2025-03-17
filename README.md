@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/deborasouza01/deborasouza01/refs/heads/main/gif-hello-word.gif" width="400px">
 
 
 
