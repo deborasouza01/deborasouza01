@@ -4,7 +4,7 @@
 ## 🌟 Sobre Mim
 <p><strong>Desenvolvedora web em formação</strong>.</p>
 
-<p>Durante meu estágio, me apaionei pelo o <strong>linux</strong>, e hoje não consigo mais viver sem ele!</p>
+<p>Durante meu estágio, me apaxonei pelo o <strong>linux</strong>, e hoje não consigo mais viver sem ele!</p>
 
 <p>Aprendi que um bom desenvolvedor vai além do código, é preciso entender estrutura de dados, metodologias ágeis e trabalhar bem em equipe.</p>
 
