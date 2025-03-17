@@ -53,10 +53,6 @@
   <a href="https://wa.me/5521992126111" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" style="width: 40px; height: 40px; background-color: #25D366; padding: 10px; border-radius: 8px; margin-right: 10px;"/>
   </a>
+  
 </div>
 
-
-
-
-- 💌 Email: [debora.vitorio.dev@gmail.com](mailto:debora.vitorio.dev@gmail.com)
-- 🌐 **LinkedIn**: [www.linkedin.com/in/deboravitoriodev](https://www.linkedin.com/in/deboravitoriodev)
