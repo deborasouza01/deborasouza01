@@ -40,15 +40,14 @@
 
 <div>
   <!-- Botão do LinkedIn -->
- <!-- Botão LinkedIn (azul) -->
 <a href="https://www.linkedin.com/in/deboravitoriodev" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.svg" alt="LinkedIn" style="width: 40px; height: 40px; background-color: #0A66C2; padding: 10px; border-radius: 8px; margin-right: 10px;"/>
-</a>
-
-<!-- Botão de E-mail -->
-<a href="mailto:debora.vitorio.dev@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Email_icon_2.svg" alt="E-mail" style="width: 40px; height: 40px; background-color: #ffffff; border: 2px solid #D14836; padding: 10px; border-radius: 8px; margin-right: 10px;"/>
-</a>
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/icons/linkedin.svg" alt="LinkedIn" style="width: 40px; height: 40px; background-color: #0A66C2; padding: 10px; border-radius: 8px; margin-right: 10px;"/>
+  </a>
+  
+  <!-- Botão de E-mail -->
+  <a href="mailto:debora.vitorio.dev@gmail.com">
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/icons/envelope.svg" alt="E-mail" style="width: 40px; height: 40px; background-color: #ffffff; border: 2px solid #D14836; padding: 10px; border-radius: 8px; margin-right: 10px;"/>
+  </a>
 
   <!-- Botão WhatsApp (verde) -->
   <a href="https://wa.me/5521992126111" target="_blank">
