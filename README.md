@@ -37,26 +37,8 @@
 
 
 ## 📫 Onde me encontrar:
+## Contato
 
-<head>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-</head>
-
-
-<div>
-  <!-- Botão LinkedIn (azul) -->
-  <a href="https://www.linkedin.com/in/deboravitoriodev" target="_blank">
-    <i class="fab fa-linkedin" style="font-size: 40px; background-color: #0A66C2; padding: 10px; border-radius: 8px; color: white; margin-right: 10px;"></i>
-  </a>
-  
-  <!-- Botão E-mail (branco com borda vermelha) -->
-  <a href="mailto:debora.vitorio.dev@gmail.com">
-    <i class="fas fa-envelope" style="font-size: 40px; background-color: #ffffff; border: 2px solid #D14836; padding: 10px; border-radius: 8px; color: #D14836; margin-right: 10px;"></i>
-  </a>
-
-  <!-- Botão WhatsApp (verde) -->
-  <a href="https://wa.me/5592126111" target="_blank">
-    <i class="fab fa-whatsapp" style="font-size: 40px; background-color: #25D366; padding: 10px; border-radius: 8px; color: white; margin-right: 10px;"></i>
-  </a>
-</div>
-
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg)](https://www.linkedin.com/in/deboravitoriodev)
+[![E-mail](https://upload.wikimedia.org/wikipedia/commons/a/a0/Email_icon.svg)](mailto:debora.vitorio.dev@gmail.com)
+[![WhatsApp](https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg)](https://wa.me/55992126111)
