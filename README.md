@@ -1,14 +1,7 @@
 <img src=https://raw.githubusercontent.com/deborasouza01/deborasouza01/refs/heads/main/gif-hello-word%20(2).gif width="800px" style="display: block; margin-bottom: -30px;">
 
 ## 🌟 Sobre Mim
-<p><strong>Desenvolvedora web em formação</strong>.</p>
-
-<p>Durante meu estágio, me apaxonei pelo o <strong>linux</strong>, e hoje não consigo mais viver sem ele!</p>
-
-<p>Aprendi que um bom desenvolvedor vai além do código, é preciso entender estrutura de dados, metodologias ágeis e trabalhar bem em equipe.</p>
-
-<p>Atualmente, contribuo com projetos open-source na área de DevOps aqui no GitHub, enquanto me aprofundo em Python, machine learning e computação em nuvem (AWS). Busco sempre soluções inovadoras e melhorar minha produtividade no caminho.</p>
-
+<p><strong>Desenvolvedora Front-End Júnior</strong> com paixão por criar interfaces intuitivas e acessíveis.</p> <p>Adoro transformar ideias em experiências digitais que sejam ao mesmo tempo bonitas e funcionais. Durante meu aprendizado, me aprofundei em HTML, CSS, JavaScript e frameworks modernos para construir aplicações responsivas e eficientes.</p> <p>Acredito que um bom front-end vai além da estética: envolve entender o usuário, otimizar performance e garantir acessibilidade para todos.</p> <p>Atualmente, estou desenvolvendo projetos que conectam pessoas a serviços essenciais, como o CleanDirect, e buscando sempre aprimorar minhas habilidades em design responsivo, UX e novas tecnologias do ecossistema web.</p>
  ## 🚀 Tecnologias que uso:
 
 <div>
