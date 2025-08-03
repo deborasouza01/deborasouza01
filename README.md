@@ -2,7 +2,7 @@
 
 ## 🌟 Sobre Mim
 <p><strong>Desenvolvedora Front-End Júnior</strong> com paixão por criar interfaces intuitivas e acessíveis.</p> <p>Adoro transformar ideias em experiências digitais que sejam ao mesmo tempo bonitas e funcionais. Durante meu aprendizado, me aprofundei em HTML, CSS, JavaScript e frameworks modernos para construir aplicações responsivas e eficientes.</p> <p>Acredito que um bom front-end vai além da estética: envolve entender o usuário, otimizar performance e garantir acessibilidade para todos.</p> <p>Atualmente, estou desenvolvendo projetos que conectam pessoas a serviços essenciais, como o CleanDirect, e buscando sempre aprimorar minhas habilidades em design responsivo, UX e novas tecnologias do ecossistema web.</p>
- ## 🚀 Tecnologias que uso:
+ ## 🚀 Tecnologias que utilizo:
 
 <div>
   <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML5"/>
